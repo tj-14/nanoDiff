@@ -13,4 +13,4 @@ understand how the model works.
 
 ## Dataset
 
-https://www.kaggle.com/datasets/juansblanco/pixel-art-trees?resource=download
+https://www.kaggle.com/datasets/jorgevilatomas/pokmon-sprites?resource=download
